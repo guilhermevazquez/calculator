@@ -13,3 +13,8 @@ func internalSum(number int) int {
 func Sum(number1, number2 int) int {
 	return number1 + number2
 }
+
+// Multiply two integer numbers
+func Multiply(number1, number2 int) int {
+	return number1 * number2
+}
